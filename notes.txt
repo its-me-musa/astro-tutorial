@@ -8,3 +8,5 @@ When you restructure your code but do not change the way your page looks in the 
 astro components
     reusable
     fragments of HTML
+
+removed from git hub
