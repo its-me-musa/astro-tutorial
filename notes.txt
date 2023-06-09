@@ -1,0 +1,10 @@
+https://www.markdownguide.org/cheat-sheet/
+
+https://assemble.io/docs/
+
+
+When you restructure your code but do not change the way your page looks in the browser, you are refactoring. You will refactor several times in this unit as you replace parts of your page HTML with components.
+
+astro components
+    reusable
+    fragments of HTML
